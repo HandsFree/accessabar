@@ -6398,9 +6398,9 @@ performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
 
-pickr-widget@0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/pickr-widget/-/pickr-widget-0.3.2.tgz#9f010ff4e6bd7aa846f88f8bc57e4c8eed8c3616"
+pickr-widget@0.3.6:
+  version "0.3.6"
+  resolved "https://registry.yarnpkg.com/pickr-widget/-/pickr-widget-0.3.6.tgz#f49268f7fecc3a78bb0894367cc0e4dd2f7fdcb2"
 
 pify@^2.0.0, pify@^2.2.0, pify@^2.3.0:
   version "2.3.0"
