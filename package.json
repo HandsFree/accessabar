@@ -44,7 +44,7 @@
     "browser-sync-webpack-plugin": "2.2.2",
     "cache-loader": "4.1.0",
     "css-hot-loader": "1.4.4",
-    "dotenv-webpack": "^1.7.0",
+    "dotenv-webpack": "1.8.0",
     "css-loader": "3.5.3",
     "cypress": "4.5.0",
     "eslint": "6.8.0",
