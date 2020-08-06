@@ -6,12 +6,13 @@ import {aceMoveBody} from './actions/ace.actions';
 import subResize from './subscriptions/resize.subscription';
 import {fxHydrate} from './fx/hydrate.fx';
 import {fxTTSInit} from './fx/tts.fx';
+import Pickr from '@simonwep/pickr';
 
 declare global {
   // tslint:disable-next-line
   interface Window {
     ace: AceController;
-    pickr: any;
+    pickr: Pickr;
   }
 }
 
