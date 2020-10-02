@@ -56,7 +56,7 @@
     "postcss-custom-media": "7.0.8",
     "postcss-easy-import": "3.0.0",
     "postcss-flexbugs-fixes": "4.2.1",
-    "postcss-loader": "4.0.2",
+    "postcss-loader": "4.0.3",
     "postcss-nested": "4.2.3",
     "postcss-nested-ancestors": "2.0.0",
     "postcss-nested-props": "2.0.0",
