@@ -79,7 +79,7 @@
   },
   "dependencies": {
     "@babel/runtime-corejs2": "7.12.1",
-    "@simonwep/pickr": "1.7.4",
+    "@simonwep/pickr": "1.8.0",
     "@webcomponents/custom-elements": "1.4.2",
     "bignumber.js": "9.0.1",
     "hotkeys-js": "^3.8.1",
