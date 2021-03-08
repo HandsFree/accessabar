@@ -1160,12 +1160,12 @@
   dependencies:
     any-observable "^0.3.0"
 
-"@simonwep/pickr@1.7.4":
-  version "1.7.4"
-  resolved "https://registry.yarnpkg.com/@simonwep/pickr/-/pickr-1.7.4.tgz#b14fcd945890388b870cd6db4d6c78d531f25141"
-  integrity sha512-fq7jgKJT21uWGC1mARBHvvd1JYlEf93o7SuVOB4Lr0x/2UPuNC9Oe9n/GzVeg4oVtqMDfh1wIEJpsdOJEZb+3g==
+"@simonwep/pickr@1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@simonwep/pickr/-/pickr-1.8.0.tgz#adbff9a4f7f0e59dec9946508c5e481b7abae0f8"
+  integrity sha512-VaSD7TwktOsro5nQ/FjRx5JAJ09k5CNfGRHacgVRxeVPolUQwelz1SjL8HAOKZwTSmcnIObptpHABQS4zgN7sw==
   dependencies:
-    core-js "^3.6.5"
+    core-js "^3.8.0"
     nanopop "^2.1.0"
 
 "@sindresorhus/is@^0.14.0":
@@ -3321,10 +3321,10 @@ core-js@^2.6.5:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.11.tgz#38831469f9922bded8ee21c9dc46985e0399308c"
   integrity sha512-5wjnpaT/3dV+XB4borEsnAYQchn00XSgTAWKDkEqv+K8KevjbzmofK6hfJ9TZIlpj2N0xQpazy7PiRQiWHqzWg==
 
-core-js@^3.6.5:
-  version "3.6.5"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.6.5.tgz#7395dc273af37fb2e50e9bd3d9fe841285231d1a"
-  integrity sha512-vZVEEwZoIsI+vPEuoF9Iqf5H7/M3eeQqWlQnYa8FSKKePuYTf5MWnxb5SDAzCa60b3JBRS5g9b+Dq7b1y/RCrA==
+core-js@^3.8.0:
+  version "3.9.1"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.9.1.tgz#cec8de593db8eb2a85ffb0dbdeb312cb6e5460ae"
+  integrity sha512-gSjRvzkxQc1zjM/5paAmL4idJBFzuJoo+jDjF1tStYFMV2ERfD02HhahhCGXUyHxQRG4yFKVSdO6g62eoRMcDg==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
