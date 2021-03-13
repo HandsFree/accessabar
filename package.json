@@ -55,7 +55,7 @@
     "optimize-css-assets-webpack-plugin": "5.0.4",
     "postcss-custom-media": "8.0.0",
     "postcss-easy-import": "3.0.0",
-    "postcss-flexbugs-fixes": "4.2.1",
+    "postcss-flexbugs-fixes": "5.0.2",
     "postcss-loader": "4.2.0",
     "postcss-nested": "5.0.5",
     "postcss-nested-ancestors": "2.0.0",
