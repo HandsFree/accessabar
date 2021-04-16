@@ -43,7 +43,7 @@
     "browser-sync-webpack-plugin": "2.3.0",
     "cache-loader": "4.1.0",
     "css-hot-loader": "1.4.4",
-    "css-loader": "5.2.1",
+    "css-loader": "5.2.2",
     "cypress": "7.1.0",
     "eslint-plugin-cypress": "2.11.2",
     "file-loader": "6.2.0",
