@@ -6096,10 +6096,10 @@ human-signals@^2.1.0:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-2.1.0.tgz#dc91fcba42e4d06e4abaed33b3e7a3c02f514ea0"
   integrity sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==
 
-hyperapp@2.0.16:
-  version "2.0.16"
-  resolved "https://registry.yarnpkg.com/hyperapp/-/hyperapp-2.0.16.tgz#32589d098f04b5af69b6826c5daeaf505fd76251"
-  integrity sha512-wd3Be3eXo3H0xfTRbZU5fNhDnzAm7KkB7ANRXQdtYLFWgYCtP87ANTEFWxkk+nOA/JAkbgDqzA818bod3cpioA==
+hyperapp@2.0.17:
+  version "2.0.17"
+  resolved "https://registry.yarnpkg.com/hyperapp/-/hyperapp-2.0.17.tgz#3aa75a4a519f66e1cc7bdb33776bac9ce488bcc6"
+  integrity sha512-g/II/k1uXkAXK7Hs9cqP9KvcOa2Wo+PDrUQ59Buj8sLcs3LsDDYfwJTvxQ2G3Cb+iqdL6AWXLQGAH0vwsHHhUQ==
 
 iconv-lite@0.4.24, iconv-lite@^0.4.24:
   version "0.4.24"
