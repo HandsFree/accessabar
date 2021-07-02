@@ -34,7 +34,7 @@
     "@babel/preset-typescript": "7.14.5",
     "@types/node": "14.17.4",
     "@types/webpack": "4.41.30",
-    "@types/webpack-env": "1.16.1",
+    "@types/webpack-env": "1.16.2",
     "autoprefixer": "10.2.6",
     "ava": "3.15.0",
     "babel-eslint": "10.1.0",
